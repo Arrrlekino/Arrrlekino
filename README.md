@@ -1,5 +1,5 @@
-### Hi there 👋
-Sharing updates on <a href="https://www.linkedin.com/in/alla-massorova-477551116/">LinkedIn</a> 💼
+### Hi there 👋 I'm Alla
+My <a href="https://www.linkedin.com/in/alla-massorova-477551116/">LinkedIn</a> 💼
 <!--
 **Arrrlekino/Arrrlekino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
