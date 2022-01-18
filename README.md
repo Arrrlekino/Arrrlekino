@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+Sharing updates on <a href="https://www.linkedin.com/in/alla-massorova-477551116/">LinkedIn</a> 💼
 <!--
 **Arrrlekino/Arrrlekino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,15 +16,6 @@ Here are some ideas to get you started:
 
 
 
-<!DOCTYPE HTML>
-
-<!--
-
-	Nice to meet you here
-
--->
-
-<html>
 
 
 
