@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Alla
 My <a href="https://www.linkedin.com/in/alla-massorova-477551116/">LinkedIn</a> 💼
+[<img src="https://github.com/Arrrlekino/Arrrlekino/blob/main/forGit3.gif" width="100%" alt="👋 Hi there! I'm (Brandon | https://brandonleafman.com)" title="👋 Hi there! I'm (Alla | https://brandonleafman.com)"/>](https://brandonleafman.com)
+
 <!--
 **Arrrlekino/Arrrlekino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
