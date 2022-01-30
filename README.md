@@ -1,5 +1,12 @@
 ### Hi there 👋 I'm Alla
 My <a href="https://www.linkedin.com/in/alla-massorova-477551116/">LinkedIn</a> 💼
+![](https://github.com/Arrrlekino/Arrrlekino/blob/main/hello001.gif)
+<!--
+<img src="https://github.com/Arrrlekino/Arrrlekino/raw/main/hello001.gif" width="100%"/>
+https://github.com/Arrrlekino/Arrrlekino/blob/main/hello0012.gif.mp4
+
+-->
+
 <!--
 **Arrrlekino/Arrrlekino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
