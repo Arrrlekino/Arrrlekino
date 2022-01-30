@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Alla
 My <a href="https://www.linkedin.com/in/alla-massorova-477551116/">LinkedIn</a> 💼
 <img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
-
+![](https://github.com/Arrrlekino/Arrrlekino/blob/main/Edit555.gif)
 <!--
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 ![](hello003.gif)
